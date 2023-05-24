@@ -1,0 +1,28 @@
+baseURL: https://mlt.community/
+languageCode: en-us
+title: MLT Community
+theme: PaperMod
+params:
+  ShowBreadCrumbs: true
+  profileMode:
+    enabled: true
+    title: "MLT Community"
+    subtitle: Medical Laboratory Community of Practice
+    imageUrl: "/mlt-community-logo.png"
+    imateTitle: "A globe surround by people representing a community."
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Projects
+        url: "/projects"
+      - name: Publications
+        url: "/publications"
+      - name: Presentations
+        url: "/presentations"
+
+menu:
+  main:
+    - identifier: Contact us
+      name: Contact us
+      url: mailto:contact@mlt.community
+      weight: 10
