@@ -14,4 +14,4 @@ This presentation examines the role the medical laboratory plays in the coordina
 - **Conference:** Canadian Association of Health Services and Policy Research
 - **Date:** May, 2023
 - **Location:** Montreal, QC, Canada
-- **Presenter:** Brenda Gamble
+- **Presenter:** Brenda Gamble, PhD
