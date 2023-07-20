@@ -1,4 +1,4 @@
-# baseURL: https://mlt.community/
+baseURL: "/"
 languageCode: en-us
 title: MLT Community
 theme: PaperMod
