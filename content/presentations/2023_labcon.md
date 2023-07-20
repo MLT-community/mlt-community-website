@@ -1,5 +1,5 @@
 ---
-title: "LABCON 2023"
+title: "LABCON 2023 - Andrei"
 date: 2023-07-18T16:00:00-04:00
 draft: false
 ---
@@ -19,4 +19,4 @@ Our team has been working on the development of seven microcredentials modules t
 - **Conference:** LABCON - CSMLS
 - **Date:** May 28, 2023
 - **Location:** Whistler, BC, Canada
-- **Presenter:** Andrei Torres
+- **Presenter:** Andrei Torres, PhD (candidate), M.Eng.
