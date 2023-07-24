@@ -10,7 +10,7 @@ This presentation examines the role the medical laboratory plays in the coordina
 
 {{<youtube JAxOe2LZrj0>}}
 
-## Details
+### Details
 - **Conference:** Canadian Association of Health Services and Policy Research
 - **Date:** May, 2023
 - **Location:** Montreal, QC, Canada
